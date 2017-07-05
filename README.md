@@ -22,8 +22,6 @@ Android Under the Hood
 
 Material Design 
 
-Project Demo
-
 Unit Testing
 
 User Interface Testing
