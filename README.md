@@ -4,7 +4,7 @@
 	>*In this lab , we check that everything is installed correctly by doing a quick Hello World in the Android Studio.*
   
 * **Lab 2: Github**
-	>*In this lab , we build connect Android Stuido to github.*
+	>*In this lab , we connect Android Studio to github.*
 
 * **Lab 3: Two Activity app**
 	>*In this lab , we build a simple app with two Activities, the first a dropdown form which then displays a detail page with more information on your choice.*
